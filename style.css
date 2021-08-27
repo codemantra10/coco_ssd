@@ -1,0 +1,21 @@
+
+#heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+background-color: lightblue;
+color: darkblue;
+font-family: cursive;
+}
+body{
+background-position: center;
+background-size:cover;
+}
+canvas{
+border:  5px dotted black;
+box-shadow: 10px 10px 384px blue;
+}
+
+
+
