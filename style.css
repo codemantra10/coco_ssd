@@ -16,6 +16,10 @@ canvas{
 border:  5px dotted black;
 box-shadow: 10px 10px 384px blue;
 }
-
+#Status{
+background-color: black;
+color: cornsilk;
+box-shadow: 10px 10px 20px lightblue;
+}
 
 
